@@ -1,0 +1,36 @@
+.navbar-brand img {
+  height: 3rem;
+}
+
+.cards {
+  background-image: url("https://t4.ftcdn.net/jpg/06/17/78/49/360_F_617784996_a1PDiGldzT8yAHAGVW9fq13T3JqvbYXD.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.card-cont {
+  background-color: #78d2a299;
+}
+
+.icon {
+  background-color: #a1d21f;
+  height: 5rem;
+  width: 5rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bi-star {
+  font-size: 3rem;
+  color: white;
+}
+
+.form-control::placeholder {
+  color: white;
+}
+
+li {
+  list-style-type: none;
+}
